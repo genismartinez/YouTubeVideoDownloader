@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGpP5ZsKDSihs0z+mKW80wcY663PX00XcXtery9+sA9Bq+8i8sntXC4icd0W1NG+b8UWTr2YXEmG9G3vwuEoKA==",
+  "success": true,
+  "projectFilePath": "/Users/genismartinez/MyWebApp/MyWebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/genismartinez/.nuget/packages/anglesharp/1.0.4/anglesharp.1.0.4.nupkg.sha512",
+    "/Users/genismartinez/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "/Users/genismartinez/.nuget/packages/youtubeexplode/6.3.1/youtubeexplode.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
